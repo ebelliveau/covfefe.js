@@ -7,7 +7,7 @@
  * This is a total parody, and I have the utmost respect for snaptortoise's implementation of the touch 
  * interaction, but I may not have much of a use for this.  I intend to evolve this freak into something 
  * that'll bind to every event of every input or background DOM element the closure method Covfefe()
- * is pointed towards and returns multiple covfefes in many fart.js instantiations.  For keks.  
+ * is pointed towards and returns multiple covfefes in many fartscroll.js instantiations.  For keks.  
  * 
  * I am borrowing things from the snaptortoise konami-js base while I'm barely functional on 
  * vacation -- at least until this thing does the thing I want it to thing.  
@@ -19,6 +19,16 @@
  * Go forth and covfefe
  *
  * -Ed
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * edit:  fartscroll -- https://theonion.github.io/fartscroll.js/ <3
  */
 
 var Covfefe = function (callback) {
