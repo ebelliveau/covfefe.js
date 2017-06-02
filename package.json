@@ -1,0 +1,23 @@
+{
+  "name": "covfefe",
+  "version": "1.0.0",
+  "description": "A module that adds a konami-code-like detection for the character string \"covfefe\", and engages fartscroll.js.",
+  "main": "covfefe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "In",
+    "light",
+    "of",
+    "negative",
+    "media",
+    "covfefe"
+  ],
+  "author": "Edmond Belliveau <edmond.belliveau@gmail.com>",
+  "license": "UNLICENSED"
+}
